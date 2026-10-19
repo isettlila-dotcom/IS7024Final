@@ -4,7 +4,7 @@
 
 
 ## Icon
-![Placeholder Logo](add URL here)
+![Placeholder Logo](https://github.com/wjtreutel/IS7024Final/blob/main/logo.png)
 
 ## Storyboard
 
